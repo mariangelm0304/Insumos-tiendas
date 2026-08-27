@@ -1,0 +1,1564 @@
+{
+  "catalogo": [
+    {
+      "producto": "AROMATICA FRUTAL JAIBEL CAJA X 20 SOBRES CANELA / MANZANA",
+      "precio": 10900,
+      "cat": "Cafeteria",
+      "fila": 2
+    },
+    {
+      "producto": "AROMATICA HINDU CAJA X 20 SOBRES SABOR MANZANILLA",
+      "precio": 4400,
+      "cat": "Cafeteria",
+      "fila": 3
+    },
+    {
+      "producto": "AROMATICA HINDU CAJA X 20 SOBRES SABOR TORONJIL",
+      "precio": 4100,
+      "cat": "Cafeteria",
+      "fila": 4
+    },
+    {
+      "producto": "AZUCAR BLANCA EN BOLSA X 2.5 KILOS",
+      "precio": 14600,
+      "cat": "Cafeteria",
+      "fila": 5
+    },
+    {
+      "producto": "AZUCAR BLANCA EN TUBIPACK DE 5 GRAMOS PAQUETE X 200 RIOPAILA",
+      "precio": 12700,
+      "cat": "Cafeteria",
+      "fila": 6
+    },
+    {
+      "producto": "CAFE BISTRO INSTITUCIONAL EN PAQUETE X 500 GRAMOS",
+      "precio": 27900,
+      "cat": "Cafeteria",
+      "fila": 7
+    },
+    {
+      "producto": "CAFE COLCAFE GRANULADO EN STICK PACK DE 1.5 GRS DISPLAY X 48 UNIDADES",
+      "precio": 14630,
+      "cat": "Cafeteria",
+      "fila": 8
+    },
+    {
+      "producto": "CAFE NESCAFE INSTANTANEO EN LATA X 500 GRAMOS",
+      "precio": 92900,
+      "cat": "Cafeteria",
+      "fila": 9
+    },
+    {
+      "producto": "CAFE SELLO ROJO INSTITUCIONAL FUERTE EN PAQUETE X 500 GRAMOS",
+      "precio": 32700,
+      "cat": "Cafeteria",
+      "fila": 10
+    },
+    {
+      "producto": "SERVILLETA CUADRADA ACOLCHAMAX FAMILIA  / TORK REF 200115 PAQUETE X 100 UNIDADES",
+      "precio": 3200,
+      "cat": "Cafeteria",
+      "fila": 11
+    },
+    {
+      "producto": "VASO CARTON BLANCO DE 4 ONZAS BARVAL PAQUETE X 50 UNIDADES",
+      "precio": 5600,
+      "cat": "Cafeteria",
+      "fila": 12
+    },
+    {
+      "producto": "VASO CARTON BLANCO DE 7 ONZAS BARVAL PAQUETE X 50 UNIDADES",
+      "precio": 6000,
+      "cat": "Cafeteria",
+      "fila": 13
+    },
+    {
+      "producto": "CARTONES PEQUEÑOS",
+      "precio": 124,
+      "cat": "PGP",
+      "fila": 14
+    },
+    {
+      "producto": "STOPPER",
+      "precio": 340,
+      "cat": "PGP",
+      "fila": 15
+    },
+    {
+      "producto": "PELEX 45 (GRANDE)",
+      "precio": 28800,
+      "cat": "Pelex",
+      "fila": 16
+    },
+    {
+      "producto": "PELEX 15 (PEQUEÑO)",
+      "precio": 8900,
+      "cat": "Pelex",
+      "fila": 17
+    },
+    {
+      "producto": "AEROSOL BLANCO BRILLANTE",
+      "precio": 20769,
+      "cat": "Calidad",
+      "fila": 18
+    },
+    {
+      "producto": "AEROSOL TRANSPARENTE BRILLANTE",
+      "precio": 17077,
+      "cat": "Calidad",
+      "fila": 19
+    },
+    {
+      "producto": "GOTA MAGICA",
+      "precio": 5922,
+      "cat": "Calidad",
+      "fila": 20
+    },
+    {
+      "producto": "CUCHILLAS PARA BISTURI",
+      "precio": 6100,
+      "cat": "Calidad",
+      "fila": 21
+    },
+    {
+      "producto": "LIJA ROJA 400",
+      "precio": 2100,
+      "cat": "Calidad",
+      "fila": 22
+    },
+    {
+      "producto": "LIJA ROJA 150",
+      "precio": 2100,
+      "cat": "Calidad",
+      "fila": 23
+    },
+    {
+      "producto": "LIJA ROJA 150",
+      "precio": 2100,
+      "cat": "Calidad",
+      "fila": 24
+    },
+    {
+      "producto": "KILO DE TRAPO BLANCO",
+      "precio": 12000,
+      "cat": "Calidad",
+      "fila": 25
+    },
+    {
+      "producto": "TORN DRYWALL",
+      "precio": 100,
+      "cat": "Calidad",
+      "fila": 26
+    },
+    {
+      "producto": "CINTA TRANSPARENTE",
+      "precio": 7498,
+      "cat": "Calidad",
+      "fila": 27
+    },
+    {
+      "producto": "CINTA ENMASCARAR 3/4",
+      "precio": 5171,
+      "cat": "Calidad",
+      "fila": 28
+    },
+    {
+      "producto": "CHAZOS CAIMAN 1/4",
+      "precio": 450,
+      "cat": "Calidad",
+      "fila": 29
+    },
+    {
+      "producto": "EXACTO",
+      "precio": 12205,
+      "cat": "Calidad",
+      "fila": 30
+    },
+    {
+      "producto": "PUNTA ESTRIAS DE IMAN",
+      "precio": 3500,
+      "cat": "Calidad",
+      "fila": 31
+    },
+    {
+      "producto": "LIJAS 1500",
+      "precio": 3200,
+      "cat": "Calidad",
+      "fila": 32
+    },
+    {
+      "producto": "LACA CATALIZADA TRANSPARENTE BRILLANTE  X GALON",
+      "precio": 106300,
+      "cat": "Calidad",
+      "fila": 33
+    },
+    {
+      "producto": "AEROSOL NEGRO BRILLANTE",
+      "precio": 20769,
+      "cat": "Calidad",
+      "fila": 34
+    },
+    {
+      "producto": "AEROSOL BLANCO MATE",
+      "precio": 20769,
+      "cat": "Calidad",
+      "fila": 35
+    },
+    {
+      "producto": "SHAMPOO PARA LIMPIAR MUEBLES X GALON",
+      "precio": 44500,
+      "cat": "Calidad",
+      "fila": 36
+    },
+    {
+      "producto": "BASE BLANCA CALTALIZADA X GALON",
+      "precio": 95000,
+      "cat": "Calidad",
+      "fila": 37
+    },
+    {
+      "producto": "CUCHILLA PARA BISTURI",
+      "precio": 6100,
+      "cat": "Calidad",
+      "fila": 38
+    },
+    {
+      "producto": "AEROSOL NEGRO",
+      "precio": 20769,
+      "cat": "Calidad",
+      "fila": 39
+    },
+    {
+      "producto": "DESTORNILLADOR DE ESTRELLA 1/4 X 6 TRUPER 14079",
+      "precio": 11800,
+      "cat": "Calidad",
+      "fila": 40
+    },
+    {
+      "producto": "DESTORNILLADOR DE PALETA 1/4 X 6 TRUPER 14000",
+      "precio": 11800,
+      "cat": "Calidad",
+      "fila": 41
+    },
+    {
+      "producto": "JUEGO DE BROCAS PARA METAL Y PARED TRUPER 11335",
+      "precio": 52000,
+      "cat": "Calidad",
+      "fila": 42
+    },
+    {
+      "producto": "MARTILLO PEQUEÑO 10 ONZ 22291",
+      "precio": 22000,
+      "cat": "Calidad",
+      "fila": 43
+    },
+    {
+      "producto": "ALICATE TRUPER 17330",
+      "precio": 39860,
+      "cat": "Calidad",
+      "fila": 44
+    },
+    {
+      "producto": "NIVEL PROFESIONAL 18 TRUPER 17034",
+      "precio": 35800,
+      "cat": "Calidad",
+      "fila": 45
+    }
+  ],
+  "recs": [
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "GOTA MAGICA",
+      "q": 3,
+      "s": "henry vergara",
+      "f": "24 agosto 2026 11:52"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "CUCHILLAS PARA BISTURI",
+      "q": 2,
+      "s": "henry vergara",
+      "f": "24 agosto 2026 11:52"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "LIJA ROJA 400",
+      "q": 2,
+      "s": "henry vergara",
+      "f": "24 agosto 2026 11:52"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "EXACTO",
+      "q": 2,
+      "s": "henry vergara",
+      "f": "24 agosto 2026 11:53"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "PUNTA ESTRIAS DE IMAN",
+      "q": 2,
+      "s": "henry vergara",
+      "f": "24 agosto 2026 11:53"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "DESTORNILLADOR DE ESTRELLA 1/4 X 6 TRUPER 14079",
+      "q": 1,
+      "s": "henry vergara",
+      "f": "24 agosto 2026 11:53"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "JUEGO DE BROCAS PARA METAL Y PARED TRUPER 11335",
+      "q": 1,
+      "s": "henry vergara",
+      "f": "24 agosto 2026 11:53"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "AEROSOL BLANCO BRILLANTE",
+      "q": 2,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "AEROSOL TRANSPARENTE BRILLANTE",
+      "q": 2,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "GOTA MAGICA",
+      "q": 2,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "AROMATICA FRUTAL JAIBEL CAJA X 20 SOBRES CANELA / MANZANA",
+      "q": 4,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "AROMATICA HINDU CAJA X 20 SOBRES SABOR MANZANILLA",
+      "q": 4,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "AROMATICA HINDU CAJA X 20 SOBRES SABOR TORONJIL",
+      "q": 4,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "AROMATICA HINDU CAJA X 20 SOBRES SABOR MANZANILLA",
+      "q": 2,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "AROMATICA HINDU CAJA X 20 SOBRES SABOR TORONJIL",
+      "q": 2,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "AZUCAR BLANCA EN TUBIPACK DE 5 GRAMOS PAQUETE X 200 RIOPAILA",
+      "q": 2,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "CAFE BISTRO INSTITUCIONAL EN PAQUETE X 500 GRAMOS",
+      "q": 2,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "VASO CARTON BLANCO DE 7 ONZAS BARVAL PAQUETE X 50 UNIDADES",
+      "q": 2,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "AEROSOL BLANCO BRILLANTE",
+      "q": 3,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "AEROSOL TRANSPARENTE BRILLANTE",
+      "q": 3,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "LIJA ROJA 400",
+      "q": 6,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "KILO DE TRAPO BLANCO",
+      "q": 1,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "CINTA TRANSPARENTE",
+      "q": 5,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "CHAZOS CAIMAN 1/4",
+      "q": 20,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "PUNTA ESTRIAS DE IMAN",
+      "q": 4,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:20"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "LIJAS 1500",
+      "q": 3,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:21"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "LACA CATALIZADA TRANSPARENTE BRILLANTE  X GALON",
+      "q": 2,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:21"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "SHAMPOO PARA LIMPIAR MUEBLES X GALON",
+      "q": 2,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:21"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "DESTORNILLADOR DE ESTRELLA 1/4 X 6 TRUPER 14079",
+      "q": 2,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:21"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "DESTORNILLADOR DE PALETA 1/4 X 6 TRUPER 14000",
+      "q": 1,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:21"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "JUEGO DE BROCAS PARA METAL Y PARED TRUPER 11335",
+      "q": 4,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:21"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "MARTILLO PEQUEÑO 10 ONZ 22291",
+      "q": 1,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:21"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "ALICATE TRUPER 17330",
+      "q": 1,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:21"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 15,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:21"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 20,
+      "s": "NELSON ARNULFO PARRA",
+      "f": "24 agosto 2026 15:21"
+    },
+    {
+      "per": "2026-08",
+      "t": "Molinos",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 20,
+      "s": "Andres Felipe Muñoz",
+      "f": "24 agosto 2026 16:01"
+    },
+    {
+      "per": "2026-08",
+      "t": "Molinos",
+      "p": "LIJA ROJA 150",
+      "q": 4,
+      "s": "Andres Felipe Muñoz",
+      "f": "24 agosto 2026 16:01"
+    },
+    {
+      "per": "2026-08",
+      "t": "Molinos",
+      "p": "TORN DRYWALL",
+      "q": 20,
+      "s": "Andres Felipe Muñoz",
+      "f": "24 agosto 2026 16:01"
+    },
+    {
+      "per": "2026-08",
+      "t": "Molinos",
+      "p": "CINTA TRANSPARENTE",
+      "q": 10,
+      "s": "Andres Felipe Muñoz",
+      "f": "24 agosto 2026 16:01"
+    },
+    {
+      "per": "2026-08",
+      "t": "Molinos",
+      "p": "DESTORNILLADOR DE ESTRELLA 1/4 X 6 TRUPER 14079",
+      "q": 1,
+      "s": "Andres Felipe Muñoz",
+      "f": "24 agosto 2026 16:01"
+    },
+    {
+      "per": "2026-08",
+      "t": "Molinos",
+      "p": "DESTORNILLADOR DE PALETA 1/4 X 6 TRUPER 14000",
+      "q": 1,
+      "s": "Andres Felipe Muñoz",
+      "f": "24 agosto 2026 16:01"
+    },
+    {
+      "per": "2026-08",
+      "t": "Molinos",
+      "p": "JUEGO DE BROCAS PARA METAL Y PARED TRUPER 11335",
+      "q": 1,
+      "s": "Andres Felipe Muñoz",
+      "f": "24 agosto 2026 16:01"
+    },
+    {
+      "per": "2026-08",
+      "t": "Molinos",
+      "p": "AZUCAR BLANCA EN TUBIPACK DE 5 GRAMOS PAQUETE X 200 RIOPAILA",
+      "q": 1,
+      "s": "Andres Felipe Muñoz",
+      "f": "24 agosto 2026 16:01"
+    },
+    {
+      "per": "2026-08",
+      "t": "Molinos",
+      "p": "CAFE NESCAFE INSTANTANEO EN LATA X 500 GRAMOS",
+      "q": 4,
+      "s": "Andres Felipe Muñoz",
+      "f": "24 agosto 2026 16:01"
+    },
+    {
+      "per": "2026-08",
+      "t": "Molinos",
+      "p": "SERVILLETA CUADRADA ACOLCHAMAX FAMILIA  / TORK REF 200115 PAQUETE X 100 UNIDADES",
+      "q": 5,
+      "s": "Andres Felipe Muñoz",
+      "f": "24 agosto 2026 16:01"
+    },
+    {
+      "per": "2026-08",
+      "t": "Molinos",
+      "p": "VASO CARTON BLANCO DE 4 ONZAS BARVAL PAQUETE X 50 UNIDADES",
+      "q": 1,
+      "s": "Andres Felipe Muñoz",
+      "f": "24 agosto 2026 16:01"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "AEROSOL BLANCO BRILLANTE",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "AEROSOL TRANSPARENTE BRILLANTE",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "GOTA MAGICA",
+      "q": 5,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "CUCHILLAS PARA BISTURI",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "LIJA ROJA 400",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "LIJA ROJA 150",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "TORN DRYWALL",
+      "q": 10,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "CINTA TRANSPARENTE",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "CINTA ENMASCARAR 3/4",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "CHAZOS CAIMAN 1/4",
+      "q": 10,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "PUNTA ESTRIAS DE IMAN",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "EXACTO",
+      "q": 1,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "LIJAS 1500",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "LACA CATALIZADA TRANSPARENTE BRILLANTE  X GALON",
+      "q": 1,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "AEROSOL NEGRO BRILLANTE",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "AEROSOL BLANCO MATE",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "SHAMPOO PARA LIMPIAR MUEBLES X GALON",
+      "q": 1,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "BASE BLANCA CALTALIZADA X GALON",
+      "q": 1,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "CUCHILLA PARA BISTURI",
+      "q": 1,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "AEROSOL NEGRO",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "DESTORNILLADOR DE ESTRELLA 1/4 X 6 TRUPER 14079",
+      "q": 1,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "DESTORNILLADOR DE PALETA 1/4 X 6 TRUPER 14000",
+      "q": 1,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "MARTILLO PEQUEÑO 10 ONZ 22291",
+      "q": 1,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:11"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "NIVEL PROFESIONAL 18 TRUPER 17034",
+      "q": 1,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 5,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "AROMATICA FRUTAL JAIBEL CAJA X 20 SOBRES CANELA / MANZANA",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "AROMATICA HINDU CAJA X 20 SOBRES SABOR MANZANILLA",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "AROMATICA HINDU CAJA X 20 SOBRES SABOR TORONJIL",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "AZUCAR BLANCA EN BOLSA X 2.5 KILOS",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "AZUCAR BLANCA EN TUBIPACK DE 5 GRAMOS PAQUETE X 200 RIOPAILA",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "CAFE BISTRO INSTITUCIONAL EN PAQUETE X 500 GRAMOS",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "CAFE COLCAFE GRANULADO EN STICK PACK DE 1.5 GRS DISPLAY X 48 UNIDADES",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "CAFE NESCAFE INSTANTANEO EN LATA X 500 GRAMOS",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "CAFE SELLO ROJO INSTITUCIONAL FUERTE EN PAQUETE X 500 GRAMOS",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "SERVILLETA CUADRADA ACOLCHAMAX FAMILIA  / TORK REF 200115 PAQUETE X 100 UNIDADES",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "VASO CARTON BLANCO DE 4 ONZAS BARVAL PAQUETE X 50 UNIDADES",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "VASO CARTON BLANCO DE 7 ONZAS BARVAL PAQUETE X 50 UNIDADES",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "CARTONES PEQUEÑOS",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "STOPPER",
+      "q": 2,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "CARTONES PEQUEÑOS",
+      "q": 20,
+      "s": "yirman luis ladeo niebles",
+      "f": "25 agosto 2026 11:12"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "LIJA ROJA 400",
+      "q": 5,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "LIJA ROJA 150",
+      "q": 5,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "KILO DE TRAPO BLANCO",
+      "q": 2,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "TORN DRYWALL",
+      "q": 200,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "CINTA TRANSPARENTE",
+      "q": 5,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "CINTA ENMASCARAR 3/4",
+      "q": 5,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "AEROSOL BLANCO BRILLANTE",
+      "q": 2,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "GOTA MAGICA",
+      "q": 10,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "CUCHILLAS PARA BISTURI",
+      "q": 1,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "PUNTA ESTRIAS DE IMAN",
+      "q": 10,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "LIJA ROJA 150",
+      "q": 2,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "LIJA ROJA 400",
+      "q": 2,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "CINTA TRANSPARENTE",
+      "q": 2,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "CINTA ENMASCARAR 3/4",
+      "q": 2,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "SHAMPOO PARA LIMPIAR MUEBLES X GALON",
+      "q": 2,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "EXACTO",
+      "q": 2,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "BASE BLANCA CALTALIZADA X GALON",
+      "q": 1,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "PUNTA ESTRIAS DE IMAN",
+      "q": 2,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "LIJAS 1500",
+      "q": 2,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "AEROSOL BLANCO MATE",
+      "q": 2,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "DESTORNILLADOR DE ESTRELLA 1/4 X 6 TRUPER 14079",
+      "q": 1,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "SHAMPOO PARA LIMPIAR MUEBLES X GALON",
+      "q": 1,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "AEROSOL NEGRO",
+      "q": 2,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "DESTORNILLADOR DE PALETA 1/4 X 6 TRUPER 14000",
+      "q": 1,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "DESTORNILLADOR DE ESTRELLA 1/4 X 6 TRUPER 14079",
+      "q": 1,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "JUEGO DE BROCAS PARA METAL Y PARED TRUPER 11335",
+      "q": 1,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "DESTORNILLADOR DE PALETA 1/4 X 6 TRUPER 14000",
+      "q": 1,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "MARTILLO PEQUEÑO 10 ONZ 22291",
+      "q": 1,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "JUEGO DE BROCAS PARA METAL Y PARED TRUPER 11335",
+      "q": 1,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "ALICATE TRUPER 17330",
+      "q": 1,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "MARTILLO PEQUEÑO 10 ONZ 22291",
+      "q": 1,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "ALICATE TRUPER 17330",
+      "q": 1,
+      "s": "jair reyes",
+      "f": "25 agosto 2026 11:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "AZUCAR BLANCA EN BOLSA X 2.5 KILOS",
+      "q": 4,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:36"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "CAFE BISTRO INSTITUCIONAL EN PAQUETE X 500 GRAMOS",
+      "q": 6,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:36"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "CAFE SELLO ROJO INSTITUCIONAL FUERTE EN PAQUETE X 500 GRAMOS",
+      "q": 6,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:36"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "SERVILLETA CUADRADA ACOLCHAMAX FAMILIA  / TORK REF 200115 PAQUETE X 100 UNIDADES",
+      "q": 4,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:36"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "VASO CARTON BLANCO DE 4 ONZAS BARVAL PAQUETE X 50 UNIDADES",
+      "q": 6,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:36"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "CARTONES PEQUEÑOS",
+      "q": 500,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:36"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 18,
+      "s": "Elsy",
+      "f": "25 agosto 2026 11:36"
+    },
+    {
+      "per": "2026-08",
+      "t": "Riohacha",
+      "p": "GOTA MAGICA",
+      "q": 3,
+      "s": "Eulin Orozco",
+      "f": "25 agosto 2026 12:31"
+    },
+    {
+      "per": "2026-08",
+      "t": "Riohacha",
+      "p": "CINTA TRANSPARENTE",
+      "q": 2,
+      "s": "Eulin Orozco",
+      "f": "25 agosto 2026 12:31"
+    },
+    {
+      "per": "2026-08",
+      "t": "Riohacha",
+      "p": "CINTA ENMASCARAR 3/4",
+      "q": 3,
+      "s": "Eulin Orozco",
+      "f": "25 agosto 2026 12:31"
+    },
+    {
+      "per": "2026-08",
+      "t": "Riohacha",
+      "p": "CHAZOS CAIMAN 1/4",
+      "q": 200,
+      "s": "Eulin Orozco",
+      "f": "25 agosto 2026 12:31"
+    },
+    {
+      "per": "2026-08",
+      "t": "Riohacha",
+      "p": "EXACTO",
+      "q": 1,
+      "s": "Eulin Orozco",
+      "f": "25 agosto 2026 12:31"
+    },
+    {
+      "per": "2026-08",
+      "t": "Riohacha",
+      "p": "AZUCAR BLANCA EN BOLSA X 2.5 KILOS",
+      "q": 1,
+      "s": "Eulin Orozco",
+      "f": "25 agosto 2026 12:32"
+    },
+    {
+      "per": "2026-08",
+      "t": "Riohacha",
+      "p": "AZUCAR BLANCA EN TUBIPACK DE 5 GRAMOS PAQUETE X 200 RIOPAILA",
+      "q": 1,
+      "s": "Eulin Orozco",
+      "f": "25 agosto 2026 12:32"
+    },
+    {
+      "per": "2026-08",
+      "t": "Riohacha",
+      "p": "CAFE COLCAFE GRANULADO EN STICK PACK DE 1.5 GRS DISPLAY X 48 UNIDADES",
+      "q": 2,
+      "s": "Eulin Orozco",
+      "f": "25 agosto 2026 12:32"
+    },
+    {
+      "per": "2026-08",
+      "t": "Riohacha",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 2,
+      "s": "Eulin Orozco",
+      "f": "25 agosto 2026 12:32"
+    },
+    {
+      "per": "2026-08",
+      "t": "Riohacha",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 15,
+      "s": "Eulin Orozco",
+      "f": "25 agosto 2026 12:32"
+    },
+    {
+      "per": "2026-08",
+      "t": "Riohacha",
+      "p": "AROMATICA HINDU CAJA X 20 SOBRES SABOR TORONJIL",
+      "q": 2,
+      "s": "Eulin Orozco",
+      "f": "25 agosto 2026 12:32"
+    },
+    {
+      "per": "2026-08",
+      "t": "Florida",
+      "p": "GOTA MAGICA",
+      "q": 4,
+      "s": "Erick Santiago",
+      "f": "25/08/2026 13:04"
+    },
+    {
+      "per": "2026-08",
+      "t": "Florida",
+      "p": "TORN DRYWALL",
+      "q": 100,
+      "s": "Erick Santiago",
+      "f": "25/08/2026 13:04"
+    },
+    {
+      "per": "2026-08",
+      "t": "Florida",
+      "p": "CHAZOS CAIMAN 1/4",
+      "q": 100,
+      "s": "Erick Santiago",
+      "f": "25/08/2026 13:04"
+    },
+    {
+      "per": "2026-08",
+      "t": "Florida",
+      "p": "AROMATICA FRUTAL JAIBEL CAJA X 20 SOBRES CANELA / MANZANA",
+      "q": 2,
+      "s": "Erick Santiago",
+      "f": "25/08/2026 13:05"
+    },
+    {
+      "per": "2026-08",
+      "t": "Florida",
+      "p": "AROMATICA HINDU CAJA X 20 SOBRES SABOR MANZANILLA",
+      "q": 2,
+      "s": "Erick Santiago",
+      "f": "25/08/2026 13:05"
+    },
+    {
+      "per": "2026-08",
+      "t": "Florida",
+      "p": "AROMATICA HINDU CAJA X 20 SOBRES SABOR TORONJIL",
+      "q": 1,
+      "s": "Erick Santiago",
+      "f": "25/08/2026 13:05"
+    },
+    {
+      "per": "2026-08",
+      "t": "Florida",
+      "p": "CAFE BISTRO INSTITUCIONAL EN PAQUETE X 500 GRAMOS",
+      "q": 2,
+      "s": "Erick Santiago",
+      "f": "25/08/2026 13:05"
+    },
+    {
+      "per": "2026-08",
+      "t": "Florida",
+      "p": "CAFE SELLO ROJO INSTITUCIONAL FUERTE EN PAQUETE X 500 GRAMOS",
+      "q": 2,
+      "s": "Erick Santiago",
+      "f": "25/08/2026 13:05"
+    },
+    {
+      "per": "2026-08",
+      "t": "Florida",
+      "p": "SERVILLETA CUADRADA ACOLCHAMAX FAMILIA  / TORK REF 200115 PAQUETE X 100 UNIDADES",
+      "q": 4,
+      "s": "Erick Santiago",
+      "f": "25/08/2026 13:05"
+    },
+    {
+      "per": "2026-08",
+      "t": "Florida",
+      "p": "VASO CARTON BLANCO DE 4 ONZAS BARVAL PAQUETE X 50 UNIDADES",
+      "q": 2,
+      "s": "Erick Santiago",
+      "f": "25/08/2026 13:05"
+    },
+    {
+      "per": "2026-08",
+      "t": "Florida",
+      "p": "VASO CARTON BLANCO DE 4 ONZAS BARVAL PAQUETE X 50 UNIDADES",
+      "q": 4,
+      "s": "Erick Santiago",
+      "f": "25/08/2026 13:05"
+    },
+    {
+      "per": "2026-08",
+      "t": "Florida",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 30,
+      "s": "Erick Santiago",
+      "f": "25/08/2026 13:05"
+    },
+    {
+      "per": "2026-08",
+      "t": "La Plazuela",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 15,
+      "s": "Caterine Conde",
+      "f": "25/08/2026 16:34"
+    },
+    {
+      "per": "2026-08",
+      "t": "La Plazuela",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 15,
+      "s": "Caterine Conde",
+      "f": "25/08/2026 16:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "La Plazuela",
+      "p": "ALICATE TRUPER 17330",
+      "q": 1,
+      "s": "Caterine Conde",
+      "f": "25/08/2026 16:35"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "GOTA MAGICA",
+      "q": 3,
+      "s": "henry vergara",
+      "f": "26 agosto 2026 7:31"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "LIJA ROJA 400",
+      "q": 2,
+      "s": "henry vergara",
+      "f": "26 agosto 2026 7:31"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "LIJA ROJA 150",
+      "q": 2,
+      "s": "henry vergara",
+      "f": "26 agosto 2026 7:31"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "PUNTA ESTRIAS DE IMAN",
+      "q": 2,
+      "s": "henry vergara",
+      "f": "26 agosto 2026 7:31"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "LIJAS 1500",
+      "q": 2,
+      "s": "henry vergara",
+      "f": "26 agosto 2026 7:31"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "DESTORNILLADOR DE ESTRELLA 1/4 X 6 TRUPER 14079",
+      "q": 1,
+      "s": "henry vergara",
+      "f": "26 agosto 2026 7:31"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "JUEGO DE BROCAS PARA METAL Y PARED TRUPER 11335",
+      "q": 1,
+      "s": "henry vergara",
+      "f": "26 agosto 2026 7:32"
+    }
+  ],
+  "excluidos": {
+    "cant0": 23,
+    "cantVacia": 4,
+    "sinFecha": 0,
+    "sinPrecio": 0
+  },
+  "tiendasCatalogo": [
+    "Principal",
+    "Cuatro Vientos",
+    "Bucaramanga",
+    "Metropolitano",
+    "Riohacha",
+    "Valledupar Loperena",
+    "Montería",
+    "Sincelejo",
+    "San Felipe",
+    "La Plazuela",
+    "Santa Marta",
+    "Norte",
+    "Mayorca",
+    "Molinos",
+    "Florida",
+    "Plaza de las Américas",
+    "Norte Bogotá",
+    "Fabricato",
+    "El Edén",
+    "CRA 30",
+    "Hiperjamar"
+  ],
+  "generado": "2026-08-26"
+}
