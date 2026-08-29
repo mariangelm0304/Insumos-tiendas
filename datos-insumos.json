@@ -532,30 +532,6 @@
     },
     {
       "per": "2026-08",
-      "t": "Plaza de las Américas",
-      "p": "PELEX 15 (PEQUEÑO)",
-      "q": 15,
-      "s": "NELSON ARNULFO PARRA",
-      "f": "24 agosto 2026 15:21"
-    },
-    {
-      "per": "2026-08",
-      "t": "Plaza de las Américas",
-      "p": "PELEX 15 (PEQUEÑO)",
-      "q": 20,
-      "s": "NELSON ARNULFO PARRA",
-      "f": "24 agosto 2026 15:21"
-    },
-    {
-      "per": "2026-08",
-      "t": "Molinos",
-      "p": "PELEX 15 (PEQUEÑO)",
-      "q": 20,
-      "s": "Andres Felipe Muñoz",
-      "f": "24 agosto 2026 16:01"
-    },
-    {
-      "per": "2026-08",
       "t": "Molinos",
       "p": "LIJA ROJA 150",
       "q": 4,
@@ -823,14 +799,6 @@
       "t": "Hiperjamar",
       "p": "NIVEL PROFESIONAL 18 TRUPER 17034",
       "q": 1,
-      "s": "yirman luis ladeo niebles",
-      "f": "25 agosto 2026 11:12"
-    },
-    {
-      "per": "2026-08",
-      "t": "Hiperjamar",
-      "p": "PELEX 45 (GRANDE)",
-      "q": 5,
       "s": "yirman luis ladeo niebles",
       "f": "25 agosto 2026 11:12"
     },
@@ -1260,14 +1228,6 @@
     },
     {
       "per": "2026-08",
-      "t": "San Felipe",
-      "p": "PELEX 45 (GRANDE)",
-      "q": 18,
-      "s": "Elsy",
-      "f": "25 agosto 2026 11:36"
-    },
-    {
-      "per": "2026-08",
       "t": "Riohacha",
       "p": "GOTA MAGICA",
       "q": 3,
@@ -1327,22 +1287,6 @@
       "t": "Riohacha",
       "p": "CAFE COLCAFE GRANULADO EN STICK PACK DE 1.5 GRS DISPLAY X 48 UNIDADES",
       "q": 2,
-      "s": "Eulin Orozco",
-      "f": "25 agosto 2026 12:32"
-    },
-    {
-      "per": "2026-08",
-      "t": "Riohacha",
-      "p": "PELEX 45 (GRANDE)",
-      "q": 2,
-      "s": "Eulin Orozco",
-      "f": "25 agosto 2026 12:32"
-    },
-    {
-      "per": "2026-08",
-      "t": "Riohacha",
-      "p": "PELEX 45 (GRANDE)",
-      "q": 15,
       "s": "Eulin Orozco",
       "f": "25 agosto 2026 12:32"
     },
@@ -1441,30 +1385,6 @@
       "q": 4,
       "s": "Erick Santiago",
       "f": "25/08/2026 13:05"
-    },
-    {
-      "per": "2026-08",
-      "t": "Florida",
-      "p": "PELEX 15 (PEQUEÑO)",
-      "q": 30,
-      "s": "Erick Santiago",
-      "f": "25/08/2026 13:05"
-    },
-    {
-      "per": "2026-08",
-      "t": "La Plazuela",
-      "p": "PELEX 15 (PEQUEÑO)",
-      "q": 15,
-      "s": "Caterine Conde",
-      "f": "25/08/2026 16:34"
-    },
-    {
-      "per": "2026-08",
-      "t": "La Plazuela",
-      "p": "PELEX 45 (GRANDE)",
-      "q": 15,
-      "s": "Caterine Conde",
-      "f": "25/08/2026 16:35"
     },
     {
       "per": "2026-08",
@@ -1637,30 +1557,6 @@
     {
       "per": "2026-08",
       "t": "Fabricato",
-      "p": "PELEX 45 (GRANDE)",
-      "q": 1,
-      "s": "Alvaro Conrado Solano",
-      "f": "27/08/2026 15:46"
-    },
-    {
-      "per": "2026-08",
-      "t": "Fabricato",
-      "p": "PELEX 15 (PEQUEÑO)",
-      "q": 1,
-      "s": "Alvaro Conrado Solano",
-      "f": "27/08/2026 15:46"
-    },
-    {
-      "per": "2026-08",
-      "t": "Fabricato",
-      "p": "PELEX 45 (GRANDE)",
-      "q": 2,
-      "s": "Alvaro Conrado Solano",
-      "f": "27/08/2026 15:47"
-    },
-    {
-      "per": "2026-08",
-      "t": "Fabricato",
       "p": "KILO DE TRAPO BLANCO",
       "q": 1,
       "s": "Alvaro Conrado Solano",
@@ -1697,6 +1593,302 @@
       "q": 100,
       "s": "Alvaro Conrado Solano",
       "f": "27/08/2026 15:47"
+    },
+    {
+      "per": "2026-08",
+      "t": "Valledupar Loperena",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 10,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Valledupar Loperena",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 10,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Montería",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Montería",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Sincelejo",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 40,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Sincelejo",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 40,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 10,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Cuatro Vientos",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 10,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Mayorca",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Mayorca",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Metropolitano",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Norte",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Norte",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Plaza de las Américas",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 35,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Norte Bogotá",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Norte Bogotá",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Fabricato",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 3,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Fabricato",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 1,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Florida",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 30,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Riohacha",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Riohacha",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 20,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "La Plazuela",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "La Plazuela",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "El Edén",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "El Edén",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Santa Marta",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Santa Marta",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Hiperjamar",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 5,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Molinos",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 20,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Bucaramanga",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Bucaramanga",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Principal",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "Principal",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 15,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "San Felipe",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 18,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "CRA 30",
+      "p": "PELEX 45 (GRANDE)",
+      "q": 25,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
+    },
+    {
+      "per": "2026-08",
+      "t": "CRA 30",
+      "p": "PELEX 15 (PEQUEÑO)",
+      "q": 25,
+      "s": "digitado en hoja Resumen",
+      "f": "hoja Resumen"
     }
   ],
   "excluidos": {
@@ -1705,6 +1897,197 @@
     "sinFecha": 0,
     "sinPrecio": 0
   },
+  "pelexResumen": [
+    {
+      "t": "VALLEDUPAR",
+      "mes": "AGOSTO",
+      "q45": 10,
+      "p45": 28800,
+      "q15": 10,
+      "p15": 8900,
+      "total": 377000
+    },
+    {
+      "t": "MONTERIA",
+      "mes": "AGOSTO",
+      "q45": 15,
+      "p45": 28800,
+      "q15": 15,
+      "p15": 8900,
+      "total": 565500
+    },
+    {
+      "t": "SINCELEJO",
+      "mes": "AGOSTO",
+      "q45": 40,
+      "p45": 28800,
+      "q15": 40,
+      "p15": 8900,
+      "total": 1508000
+    },
+    {
+      "t": "4VIENTOS",
+      "mes": "AGOSTO",
+      "q45": 10,
+      "p45": 28800,
+      "q15": 10,
+      "p15": 8900,
+      "total": 377000
+    },
+    {
+      "t": "MAYORCA",
+      "mes": "AGOSTO",
+      "q45": 15,
+      "p45": 28800,
+      "q15": 15,
+      "p15": 8900,
+      "total": 565500
+    },
+    {
+      "t": "TRINITARIAS",
+      "mes": "AGOSTO",
+      "q45": 15,
+      "p45": 28800,
+      "q15": 15,
+      "p15": 8900,
+      "total": 565500
+    },
+    {
+      "t": "NORTE",
+      "mes": "AGOSTO",
+      "q45": 15,
+      "p45": 28800,
+      "q15": 15,
+      "p15": 8900,
+      "total": 565500
+    },
+    {
+      "t": "AMERICAS",
+      "mes": "AGOSTO",
+      "q45": 0,
+      "p45": 28800,
+      "q15": 35,
+      "p15": 8900,
+      "total": 311500
+    },
+    {
+      "t": "BOGOTA NORTE",
+      "mes": "AGOSTO",
+      "q45": 15,
+      "p45": 28800,
+      "q15": 15,
+      "p15": 8900,
+      "total": 565500
+    },
+    {
+      "t": "FABRICATO",
+      "mes": "AGOSTO",
+      "q45": 3,
+      "p45": 28800,
+      "q15": 1,
+      "p15": 8900,
+      "total": 95300
+    },
+    {
+      "t": "FLORIDA",
+      "mes": "AGOSTO",
+      "q45": 0,
+      "p45": 28800,
+      "q15": 30,
+      "p15": 8900,
+      "total": 267000
+    },
+    {
+      "t": "RIOHACHA",
+      "mes": "AGOSTO",
+      "q45": 15,
+      "p45": 28800,
+      "q15": 20,
+      "p15": 8900,
+      "total": 610000
+    },
+    {
+      "t": "PLAZUELA",
+      "mes": "AGOSTO",
+      "q45": 15,
+      "p45": 28800,
+      "q15": 15,
+      "p15": 8900,
+      "total": 565500
+    },
+    {
+      "t": "EDEN",
+      "mes": "AGOSTO",
+      "q45": 15,
+      "p45": 28800,
+      "q15": 15,
+      "p15": 8900,
+      "total": 565500
+    },
+    {
+      "t": "SANTA MARTA",
+      "mes": "AGOSTO",
+      "q45": 15,
+      "p45": 28800,
+      "q15": 15,
+      "p15": 8900,
+      "total": 565500
+    },
+    {
+      "t": "HIPER",
+      "mes": "AGOSTO",
+      "q45": 5,
+      "p45": 28800,
+      "q15": 0,
+      "p15": 8900,
+      "total": 144000
+    },
+    {
+      "t": "MOLINOS",
+      "mes": "AGOSTO",
+      "q45": 0,
+      "p45": 28800,
+      "q15": 20,
+      "p15": 8900,
+      "total": 178000
+    },
+    {
+      "t": "CACIQUE",
+      "mes": "AGOSTO",
+      "q45": 15,
+      "p45": 28800,
+      "q15": 15,
+      "p15": 8900,
+      "total": 565500
+    },
+    {
+      "t": "PRINCIPAL",
+      "mes": "AGOSTO",
+      "q45": 15,
+      "p45": 28800,
+      "q15": 15,
+      "p15": 8900,
+      "total": 565500
+    },
+    {
+      "t": "SAN FELIPE",
+      "mes": "AGOSTO",
+      "q45": 18,
+      "p45": 28800,
+      "q15": 0,
+      "p15": 8900,
+      "total": 518400
+    },
+    {
+      "t": "CRA 30",
+      "mes": "AGOSTO",
+      "q45": 25,
+      "p45": 28800,
+      "q15": 25,
+      "p15": 8900,
+      "total": 942500
+    }
+  ],
   "tiendasCatalogo": [
     "Principal",
     "Cuatro Vientos",
@@ -1728,5 +2111,5 @@
     "CRA 30",
     "Hiperjamar"
   ],
-  "generado": "2026-08-28"
+  "generado": "2026-08-29"
 }
